@@ -26,6 +26,5 @@ Photo and video editing. In spent my time, I watched movies and listening Songs.
 
 ### using tools
 
-![photoshop-logo_0](https://user-images.githubusercontent.com/90706926/140867434-97a0af13-c845-4dbf-9aa6-5ada8b736960.png)
-
 ![download (3)](https://user-images.githubusercontent.com/90706926/140867533-866304b5-f346-4ccd-bb6a-15920493a280.jpg)
+![download (4)](https://user-images.githubusercontent.com/90706926/140867889-806b5ac8-460b-4beb-84d8-88ebd05db0c8.jpg)
