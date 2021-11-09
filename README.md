@@ -25,5 +25,6 @@ Hello, I’m Oshada Eranga. My age is 20 years old. I’m Started Learning Softw
 Photo and video editing. In spent my time, I watched movies and listening Songs.
 
 ### using tools
-https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other
+
+![photoshop-logo_0](https://user-images.githubusercontent.com/90706926/140867434-97a0af13-c845-4dbf-9aa6-5ada8b736960.png)
 
