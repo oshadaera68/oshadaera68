@@ -19,4 +19,8 @@ Hello,  Welcome To My Github Profile....
 
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
-Hello, I'm Oshada Eranga.. My age is 20 years old   
+#About Me
+Hello, I’m Oshada Eranga. My age is 20 years old. I’m Started Learning Software Engineering in IJSE @ 2021. And also, I loved a tech,
+Photo and video editing. In spent my time, I watched movies and listening Songs.
+
+#using tools
