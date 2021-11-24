@@ -1,13 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Oshada+Eranga;I'm+youtuber;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
- 🔭 IJSE.
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Oshada+Eranga;I'm+youtuber;And+an+video+and+photo+editing+lover.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+
+- 🔭 IJSE.
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 76 762 7455
 - 😄 Pronouns: Era
 -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Oshada+Eranga.;Software+Engineer+Student.;And+an+video+and+photo+editing+lover.+Youtuber.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;">
-</p>
  
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
