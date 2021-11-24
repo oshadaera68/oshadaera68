@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Hello,  Welcome To My Github Profile.... 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Oshada+Eranga;Software+Engineer+Student;And+an+video+and+photo+editing+lover">
+</p>
+
 ```java
 public class AboutMe {
     public static void main(String[] args) {
