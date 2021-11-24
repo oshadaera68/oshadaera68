@@ -6,7 +6,7 @@
 - 😄 Pronouns: Era
 - school : G/tittagalla atanikitta m.v(2006-2014)  / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
-- hobbies :listing songs,video editing and photo editing  
+- hobbies :listerning songs,video editing and photo editing  
  
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
