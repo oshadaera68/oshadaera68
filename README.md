@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 </p>
 
 ## About Me
-
-Hello, I’m Oshada Eranga. My age is 20 years old. I’m Started Learning Software Engineering in IJSE @ 2021. And also, I loved a tech,
-Photo and video editing. In spent my time, I watched movies and listening Songs.
-
+-name : K.H.Oshada Eranga Wijerathna
+-age  : 20 years
+-school : G//Tittagalla Atanikitha M.V(2006-2014) / G/Dikkubura sri siddhartha M.V(2014-2020)
+-address : sekkupalawatta,kataluwa,ahangama
+ 
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
 ## 📊 Github stats
