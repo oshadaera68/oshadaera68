@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Oshada+Eranga.;Software+Engineer+Student.;And+an+video+and+photo+editing+lover.+Youtuber.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Oshada+Eranga.;Software+Engineer+Student.;And+an+video+and+photo+editing+lover.+Youtuber.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;">
 </p>
 
 ```java
@@ -94,6 +94,3 @@ Photo and video editing. In spent my time, I watched movies and listening Songs.
 
 ## Tools:
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filmora/filmora-square.svg" alt="photoshop" width="40" height="40"/> </a>
-
-
