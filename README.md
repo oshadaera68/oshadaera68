@@ -68,8 +68,6 @@ public class AboutMe {
   <a href="https://github.com/search?q=user%3Aoshadaera68+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3Aoshadaera68+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aoshadaera68+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  
-
 </p>
 
 ## About Me
@@ -77,8 +75,13 @@ public class AboutMe {
 Hello, I’m Oshada Eranga. My age is 20 years old. I’m Started Learning Software Engineering in IJSE @ 2021. And also, I loved a tech,
 Photo and video editing. In spent my time, I watched movies and listening Songs.
 
-### using tools
+## 🔗 Connect with Me
+[<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
+[<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 
-![download (3)](https://user-images.githubusercontent.com/90706926/140867533-866304b5-f346-4ccd-bb6a-15920493a280.jpg)
-![download (4)](https://user-images.githubusercontent.com/90706926/140867889-806b5ac8-460b-4beb-84d8-88ebd05db0c8.jpg)
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667](https://user-images.githubusercontent.com/90706926/140868135-21057c0d-5890-45d5-9f51-6e32c6b308d1.png)
+[Youtube]: https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A
