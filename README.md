@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello,  Welcome To My Github Profile.... 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Oshada+Eranga.;Software+Engineer+Student.;And+an+video+and+photo+editing+lover.+Youtuber.">
 </p>
@@ -84,4 +82,18 @@ Photo and video editing. In spent my time, I watched movies and listening Songs.
 [<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
 [<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 
+
+[linkedin]: https://www.linkedin.com/in/oshada-eranga-b2497520a/
 [Youtube]: https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A
+[Facebook]: https://www.facebook.com/oshada.eranga.39
+[WhatsApp]: https://wa.me/0767627455
+[Twitter]: https://twitter.com/mindArtLk10
+[Instragram]: https://www.instagram.com/mind_art_lk/
+[Telegram]:https://t.me/Oshada_Eranga_58
+
+
+## Tools:
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filmora/filmora-square.svg" alt="photoshop" width="40" height="40"/> </a>
+
+
