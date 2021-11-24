@@ -16,6 +16,29 @@ Here are some ideas to get you started:
 -->
 
 Hello,  Welcome To My Github Profile.... 
+```java
+public class AboutMe {
+    public static void main(String[] args) {
+        String user = "Oshada Eranga";
+        String current_edu = "IJSE";
+        String currently_learning = "Web Development";
+        String fun_fact = "I love to leave my phone unanswered and then text them to know why they had called";
+        String[] hobbies = {
+                "Gaming",
+                "Tv series",
+                "Illustrations",
+                "DIY Projects",
+        };
+
+        Ambitions();
+    }
+
+    private static void Ambitions() {
+        BecomeSoftwareEngineer();
+        FinishMyProjects();
+    }
+}
+```
 
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
