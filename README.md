@@ -50,3 +50,8 @@
 [Twitter]: https://twitter.com/mindArtLk10
 [Instragram]: https://www.instagram.com/mind_art_lk/
 [Telegram]:https://t.me/Oshada_Eranga_58
+
+<p align="center"> 
+  <h1>Visitor count</h1><br>
+  <img src="https://profile-counter.glitch.me/oshadaera68/count.svg" />
+</p>
