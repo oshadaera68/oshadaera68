@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<!--
-**oshadaera68/oshadaera68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 IJSE.
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Oshada+Eranga;I'm+youtuber;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+ 🔭 IJSE.
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 76 762 7455
 - 😄 Pronouns: Era
