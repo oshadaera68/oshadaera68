@@ -29,10 +29,10 @@ public class AboutMe {
         String currently_learning = "Web Development";
         String fun_fact = "I love to leave my phone unanswered and then text them to know why they had called";
         String[] hobbies = {
-                "Gaming",
-                "Tv series",
-                "Illustrations",
-                "DIY Projects",
+                "photo and video edting",
+                "listing music",
+                "youtuber.",
+                "Singer"          
         };
 
         Ambitions();
@@ -47,6 +47,16 @@ public class AboutMe {
 
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
+## 📊 Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=oshadaera68&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=oshadaera68&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
+|---|---|
+<img alt="Oshada Eranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadaera68&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+
+<p align="Right">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=oshadaera68&color=brightgreen">
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
+</p>
 ### About Me
 
 Hello, I’m Oshada Eranga. My age is 20 years old. I’m Started Learning Software Engineering in IJSE @ 2021. And also, I loved a tech,
