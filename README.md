@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 </p>
 
-<a href="https://github.com/oshadaeara68/github-readme-activity-graph"><img alt="Oshada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=binodh97&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/oshadaeara68/github-readme-activity-graph"><img alt="Oshada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oshadaera68&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### 👨‍💻 My Programming languages and tools
 <p>
