@@ -6,7 +6,7 @@
 - 😄 Pronouns: Era
 - school : G/tittagalla atanikitta m.v(2006-2014)  / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
-- hobbies :listerning songs,video editing and photo editing  
+- hobbies :listerning songs,video editing and photo editing
  
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
@@ -31,7 +31,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
 ## 🔗 Connect with Me
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
@@ -41,7 +40,6 @@
 [<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
 [<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 <a href="mailto:oshadaeranga919@gmail.com"><img alt="Gmail" title="Oshada Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 
 [linkedin]: https://www.linkedin.com/in/oshada-eranga-b2497520a/
 [Youtube]: https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A
