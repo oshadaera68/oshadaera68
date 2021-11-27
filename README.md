@@ -3,6 +3,7 @@
 - 🔭 IJSE.
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 76 762 7455
+- contact me - +94 778111630
 - 😄 Pronouns: Era
 - school : G/tittagalla atanikitta m.v(2006-2014)  / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
