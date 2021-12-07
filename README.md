@@ -34,16 +34,20 @@
 
 ## 🔗 Connect with Me
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+<a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/oshada-eranga-b2497520a/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
 [<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
 [<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
 [<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
 [<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
-<a href="mailto:oshadaeranga919@gmail.com"><img alt="Gmail" title="Oshada Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href = "mailto:oshadaeranga919@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
-[linkedin]: https://www.linkedin.com/in/oshada-eranga-b2497520a/
-[Youtube]: https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A
 [Facebook]: https://www.facebook.com/oshada.eranga.39
 [WhatsApp]: https://wa.me/0767627455
 [Twitter]: https://twitter.com/mindArtLk10
