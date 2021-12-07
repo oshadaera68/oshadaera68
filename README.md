@@ -38,7 +38,6 @@
 <a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="oshada eranga's youtube channel" height="30" width="30">
   </a>
-  
 <a href="https://www.linkedin.com/in/oshada-eranga-b2497520a/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="oshada eranga's LinkedIn Profile" height="30" width="30">
   </a>
@@ -49,13 +48,11 @@
 [<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
 [<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
 [<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
-[<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 
 [Facebook]: https://www.facebook.com/oshada.eranga.39
 [WhatsApp]: https://wa.me/0767627455
 [Twitter]: https://twitter.com/mindArtLk10
 [Instragram]: https://www.instagram.com/mind_art_lk/
-[Telegram]:https://t.me/Oshada_Eranga_58
 
 <p align="center"> 
   <h1>Visitor count</h1><br>
