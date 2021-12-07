@@ -21,6 +21,7 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=oshadaera68&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
+ <img src="https://komarev.com/ghpvc/?username=oshadaera68&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
 <a href="https://github.com/oshadaeara68/github-readme-activity-graph"><img alt="Oshada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oshadaera68&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -33,7 +34,6 @@
 </p>
 
 ## 🔗 Connect with Me
-[<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
