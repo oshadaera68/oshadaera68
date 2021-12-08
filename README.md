@@ -34,15 +34,12 @@
 </p>
 
 ## 🔗 Connect with Me
-[<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
-[<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
-
-[Facebook]: https://www.facebook.com/oshada.eranga.39
-[WhatsApp]: https://wa.me/0767627455
-[Twitter]: https://twitter.com/mindArtLk10
-[Instragram]: https://www.instagram.com/mind_art_lk/
+<p align="center">
+ <a href="https://www.facebook.com/oshada.eranga.39"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+<a href=" https://www.instagram.com/mind_art_lk/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://twitter.com/mindArtLk10"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+</p>
 
 <p align="center"> 
   <h1>Visitor count</h1><br>
