@@ -39,9 +39,13 @@
 <a href=" https://www.instagram.com/mind_art_lk/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 <a href="https://twitter.com/mindArtLk10"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 <a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href=" https://www.linkedin.com/in/oshada-eranga-b2497520a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ 
 </p>
 
 <p align="center"> 
   <h1>Visitor count</h1><br>
   <img src="https://profile-counter.glitch.me/oshadaera68/count.svg" />
 </p>
+
+Credits: [oshadaera68(Oshada Eranga)](https://github.com/oshadaera68)
