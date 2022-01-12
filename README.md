@@ -25,7 +25,7 @@
  <img src="https://komarev.com/ghpvc/?username=oshadaera68&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-<a href="https://github.com/oshadaeara68/github-readme-activity-graph"><img alt="Oshada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oshadaera68&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/oshadaera68/github-readme-activity-graph"><img alt="Oshada's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oshadaera68&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### 👨‍💻 My Programming languages and tools
 <p>
