@@ -10,7 +10,7 @@
 - hobbies :listerning songs,video editing and photo editing
 - Owner of MINDARTLK.Official YouTube Channel
 - My Projects also in <a href="https://github.com/oshadaera68?tab=repositories">Respositories</a>
-- [![Twitter Follow](https://img.shields.io/twitter/follow/DanuDeshan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FmindArtLk10&screen_name=DanuDeshan)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/mindArtLk10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FmindArtLk10&screen_name=DanuDeshan)
  
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
