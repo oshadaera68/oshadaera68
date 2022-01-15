@@ -9,6 +9,7 @@
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,video editing and photo editing
 - Owner of MINDARTLK.Official YouTube Channel
+- My Projects also in <a href="https://github.com/oshadaera68?tab=repositories">Respoitories</a>
  
 ![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
 
