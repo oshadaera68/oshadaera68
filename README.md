@@ -43,7 +43,7 @@
 <a href="https://twitter.com/mindArtLk10"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 <a href="https://www.youtube.com/channel/UCZgE5vNlzXe6wK8Lsd6x9_A"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href=" https://www.linkedin.com/in/oshada-eranga-b2497520a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
- <a href = "https://wa.me/94767627455" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="50px" height="50px"/></a>
+ <a href = "https://wa.me/94767627455" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="100px" height="100px"/></a>
  
 </p>
 
