@@ -14,13 +14,11 @@
 - Official Web(v0.2) - <a href="https://oshadaera68.github.io/Work-Area-v0.2/">https://oshadaera68.github.io/Work-Area-v0.2/</a>
 - Official Web(v0.3) - <a href="https://oshadaera68.github.io/My-Profile-v0.3.0/">https://oshadaera68.github.io/My-Profile-v0.3.0/</a>
  
-## 📊 Github stats
+## 📊 My Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=oshadaera68&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=oshadaera68&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
 <img alt="Oshada Eranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadaera68&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
-
-<a href="https://app.daily.dev/oshada_era45"><img src="https://api.daily.dev/devcards/cf7ff8d10d12476abeac3a242518d8f8.png?r=bdq" width="400" alt="oshada eranga's Dev Card"/></a>
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=oshadaera68&color=brightgreen">
