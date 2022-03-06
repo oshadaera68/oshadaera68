@@ -14,8 +14,6 @@
 - Official Web(v0.2) - <a href="https://oshadaera68.github.io/Work-Area-v0.2/">https://oshadaera68.github.io/Work-Area-v0.2/</a>
 - Official Web(v0.3) - <a href="https://oshadaera68.github.io/My-Profile-v0.3.0/">https://oshadaera68.github.io/My-Profile-v0.3.0/</a>
  
-![SquarePhoto_2021114151954369](https://user-images.githubusercontent.com/90706926/140866122-fe35f4af-1937-4a9a-bea4-5dde0230e749.jpg)
-
 ## 📊 Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=oshadaera68&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=oshadaera68&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
