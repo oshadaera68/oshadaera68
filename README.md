@@ -8,7 +8,6 @@
 - school : G/tittagalla atanikitta m.v(2006-2014)  / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,video editing and photo editing
-- Owner of MINDARTLK.Official YouTube Channel
 - My Projects also in <a href="https://github.com/oshadaera68?tab=repositories">Respositories</a>
 - Official Web(v0.1 - Main Web) - <a href="https://oshadaera68.github.io/Work-Area/">https://oshadaera68.github.io/Work-Area/</a>
 - Official Web(v0.2) - <a href="https://oshadaera68.github.io/Work-Area-v0.2/">https://oshadaera68.github.io/Work-Area-v0.2/</a>
