@@ -8,7 +8,7 @@
 - school : G/tittagalla atanikitta m.v(2006-2014)  / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,video editing and photo editing
-- My Projects also in <a href="https://github.com/oshadaera68?tab=repositories">Respositories</a>
+- My Projects also in https://oshadaera68.github.io/MyProfile-v0.4.0/
 - 
  
 ## 📊 My Github stats
