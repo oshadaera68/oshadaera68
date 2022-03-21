@@ -9,9 +9,7 @@
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,video editing and photo editing
 - My Projects also in <a href="https://github.com/oshadaera68?tab=repositories">Respositories</a>
-- Official Web(v0.1 - Main Web) - <a href="https://oshadaera68.github.io/Work-Area/">https://oshadaera68.github.io/Work-Area/</a>
-- Official Web(v0.2) - <a href="https://oshadaera68.github.io/Work-Area-v0.2/">https://oshadaera68.github.io/Work-Area-v0.2/</a>
-- Official Web(v0.3) - <a href="https://oshadaera68.github.io/My-Profile-v0.3.0/">https://oshadaera68.github.io/My-Profile-v0.3.0/</a>
+- 
  
 ## 📊 My Github stats
 
