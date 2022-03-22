@@ -9,7 +9,6 @@
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,video editing and photo editing
 - My Projects also in https://oshadaera68.github.io/MyProfile-v0.4.0/
-- 
  
 ## 📊 My Github stats
 
