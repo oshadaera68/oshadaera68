@@ -1,5 +1,5 @@
 <h1 align="center">Hello Guyz 👋, I'm Oshada Eranga.</h1>
-<h3 align="center">Hello , I'm Oshada Eranga , I am a full stack developer, web designer and Youtuber. I would like a editing a Photo and Videos.</h3>
+<h3 align="center">Hello , I'm Oshada Eranga , I am a full stack developer, web designer and Youtuber. I would like a coding and editing a Photos and Videos.</h3>
 
 - 🔭 IJSE.
 - 🌱 Computer Science...
