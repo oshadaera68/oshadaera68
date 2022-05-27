@@ -38,13 +38,9 @@
 
 ## 🔗  Youtube Status
 
-<a href="[https://www.youtube.com/channel/UCkNlyDd1Khxu8TaKAayoa4w]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCkNlyDd1Khxu8TaKAayoa4w]&key=[AIzaSyBWnwBDMlmWenqliLqUStTA7s5bi6KKrGs]"/>
-</a>
+<a href="https://www.youtube.com/channel/UCkNlyDd1Khxu8TaKAayoa4w?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php#"/></a>
 
-<a href="https://www.youtube.com/channel/[UCkNlyDd1Khxu8TaKAayoa4w]">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=[UCkNlyDd1Khxu8TaKAayoa4w]&key=[AIzaSyBWnwBDMlmWenqliLqUStTA7s5bi6KKrGs]"/>
-</a>
+<a href="https://www.youtube.com/channel/UCkNlyDd1Khxu8TaKAayoa4w"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php#"/></a>
 
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
