@@ -18,11 +18,25 @@
 <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
 </p>
 
-## 📊 My Github stats
+# My Github Status📊
+![Metrics](https://metrics.lecoq.io/oshadaera68?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&pagespeed=1&tweets=1&posts=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=https%3A%2F%2Fpazindushane.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=Pazindu_Shane_&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=pazindu_shane_&config.timezone=Asia%2FColombo)
 
-<img src="https://github-readme-stats.vercel.app/api?username=oshadaera68&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=oshadaera68&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
-|---|---|
-<img alt="Oshada Eranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadaera68&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+**** 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshadaera68&show_icons=true&locale=en&layout=compact" alt="oshadaera68" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadaera68&theme=chartreuse-dark&show_icons=true&locale=en" alt="oshadaera68" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshadaera68&theme=ads-juicy-fresh" alt="oshadaera68" /></p>
+
+
+  <h3 align="center">Click here to see 👇</h3>
+  <p align="center">
+  <a href="https://skyline.github.com/oshadaera68/2022" target="_blank">
+    <h1 align="center"> My Skyline Github Contribution - 2022 </h1>
+<!--     <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2022.gif" alt="Skyline Github Contributon 2022" /> -->
+  </a>
+  </p>
+<br>
 
 ## 🔗  Languages and Tools
 <a align="center">
