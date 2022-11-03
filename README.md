@@ -31,9 +31,8 @@
   </a>
 </p>
 <br/>
-<br/>
 
-### Github Activity ✔:
+## Github Activity ✔:
 
 <a href="https://github.com/oshadaera68">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadaera68&theme=tokyonight" />
