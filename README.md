@@ -30,6 +30,8 @@
     <img src="https://skillicons.dev/icons?i=git,figma,idea,ps,vscode" />
   </a>
 </p>
+<br/>
+<br/>
 
 ### Github Activity ✔:
 
