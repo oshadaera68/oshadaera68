@@ -18,21 +18,21 @@
 
 ## 🔗  Languages and Tools
 - Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,spring" />
   </a>
 </p>
 
 - Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,figma,idea,ps,vscode" />
   </a>
 </p>
 
 ## Social Media
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter" />
   </a>
