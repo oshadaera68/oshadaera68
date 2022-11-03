@@ -20,7 +20,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,spring" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,spring,maven,materialui" />
   </a>
 </p>
 
