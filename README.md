@@ -9,7 +9,7 @@
 - school : G/tittagalla atanikitta m.v(2006-2014) / G/dikkumbura sri siddaharttha m.v(2014-2020)
 - address :sekkupalawata,kataluwa,ahangama,srilanka
 - hobbies :listerning songs,watching films,video editing and photo editing
-- My Projects also in [https://oshadaera68.github.io/MyProfile-v0.4.0/](https://oshadaera68.github.io/Web_Portfolio_v0.3/)
+- My Projects also in https://oshadaera68.github.io/Web_Portfolio_v0.3/
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
@@ -54,7 +54,6 @@
     <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter" />
   </a>
 </p>
- 
 </p>
 
 <br/>
