@@ -20,7 +20,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,spring,maven,materialui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,py,spring,maven,materialui" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 ## Social Media
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter" />
+    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,stackoverflow" />
   </a>
 </p>
 </p>
