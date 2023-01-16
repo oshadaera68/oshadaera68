@@ -27,7 +27,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,figma,idea,ps,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,idea,ps,vscode,androidstudio" />
   </a>
 </p>
 <br/>
