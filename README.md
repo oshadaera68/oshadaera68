@@ -17,14 +17,14 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,hibernate,java,jquery,mongodb,mysql,nodejs,react,py,spring,maven,materialui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,tailwind,ts,hibernate,java,jquery,mongodb,mysql,nodejs,react,py,spring,maven,materialui,firebase" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,idea,ps,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,idea,ps,vscode,androidstudio,bash,eclipse,postman" />
   </a>
 </p>
 <br/>
