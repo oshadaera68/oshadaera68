@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the `next generation applications`.
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
+- I'm Student of `IJSE (Institute of Java and Software Enginnering) Galle Branch.`
 - 💬 Ask me whatsapp/call - `+94 767627455 / +94 751554523` / `+94 778111630`
 - 📫 How to reach me **oshadaeranga919@gmail.com** 
-- 😄 Pronouns: Era
+- 😄 Pronouns: Era / Era Boy
 - My Projects also in https://oshadaera68.github.io/Web_Portfolio_v0.3/
 
 <p align="Right">
