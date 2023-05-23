@@ -1,5 +1,5 @@
 <h1 align="center">Hello Guyz 👋, I'm Oshada Eranga.</h1>
-<h3 align="center">Full Stack Software Engineer/Youtuber.</h3>
+<h3 align="center">Full Stack Developer / Youtuber.</h3>
 
 - 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the `next generation applications`.
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
