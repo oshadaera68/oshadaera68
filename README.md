@@ -18,7 +18,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,tailwind,ts,hibernate,java,jquery,mongodb,mysql,nodejs,react,angular,nextjs,flutter,py,spring,maven,materialui,firebase" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,tailwind,ts,hibernate,java,jquery,mongodb,mysql,nodejs,react,angular,nextjs,flutter,py,spring,maven,materialui,flask,firebase" />
   </a>
 </p>
 
