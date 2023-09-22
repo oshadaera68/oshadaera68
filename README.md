@@ -1,12 +1,12 @@
 <h1 align="center">Hello Guyz 👋, I'm Oshada Eranga.</h1>
-<h3 align="center">Full Stack Developer / Youtuber.</h3>
+<h3 align="center">Full Stack Developer / Youtuber / Subtitle Creator.</h3>
 
-- 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the `next generation applications`.
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - I'm Student of `IJSE (Institute of Java and Software Enginnering)` Galle Branch.
 - 💬 Ask me whatsapp/call - `+94 767627455 / +94 751554523` / `+94 778111630`
 - 📫 How to reach me **oshadaeranga919@gmail.com** 
 - 😄 Pronouns: Era / Era Boy
+- Working as on Subtitle creator at @EraBoySubz 
 - My Projects also in https://oshadaera68.github.io/Web_Portfolio_v0.3/
 
 <p align="Right">
@@ -65,5 +65,5 @@
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
-<img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/Hi.gif" width="20px">
+<img src="https://github.com/oshadaera68/red-alpha/blob/main/Hi.gif" width="20px">
 </h5>
