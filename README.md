@@ -1,12 +1,7 @@
 ![Header](./github-header-image.png)
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>  About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- I'm Student of `IJSE (Institute of Java and Software Enginnering)` Galle Branch.
-- 💬 Ask me whatsapp/call - `+94 767627455 / +94 751554523` / `+94 778111630`
-- 📫 How to reach me **oshadaeranga919@gmail.com** 
-- 😄 Pronouns: Era / Era Boy
-- Working as on Subtitle creator at @EraBoySubz 
-- My Projects also in https://oshadaera68.github.io/Web_Portfolio_v0.3/
+
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
