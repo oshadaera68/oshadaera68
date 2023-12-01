@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>  About me
+<p fontSize="23px"><b>Hello, I'm Oshada Eranga from galle. I'm Learning New Technologies for spending time. <br /> As a Youtuber, I'm the owner of <a href="https://www.youtube.com/@ERAMUSICLK/featured">ERA MUSIC LK</a> Youtube Channel.</b></p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
@@ -7,6 +8,10 @@
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
 </p>
+
+<br />
+<br />
+<br />
 
 ## 🔗  Languages and Tools
 - Languages
