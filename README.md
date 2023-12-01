@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - I'm Student of `IJSE (Institute of Java and Software Enginnering)` Galle Branch.
 - 💬 Ask me whatsapp/call - `+94 767627455 / +94 751554523` / `+94 778111630`
