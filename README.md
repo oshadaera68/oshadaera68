@@ -1,5 +1,4 @@
-<h1 align="center">Hello Guyz 👋, I'm Oshada Eranga.</h1>
-<h3 align="center">Full Stack Developer / Youtuber / Subtitle Creator.</h3>
+![Header](./github-header-image.png)
 
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - I'm Student of `IJSE (Institute of Java and Software Enginnering)` Galle Branch.
