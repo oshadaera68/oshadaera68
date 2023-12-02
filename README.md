@@ -4,10 +4,10 @@
 <p fontSize="23px"><b>Hello, I'm Oshada Eranga from galle. I'm interested in a variety of software development topics, including web development, ui/ux Design, and android app development. I'm always eager to learn more and expand my skillset. <br /> As a Youtuber, I'm the owner of <a href="https://www.youtube.com/@ERAMUSICLK/featured" text-decoration=none>ERA MUSIC LK</a> Youtube Channel.</b></p>
 
 
-
 <p align="Left">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
+<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 </p>
 
 <br />
