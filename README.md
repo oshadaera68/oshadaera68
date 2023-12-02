@@ -64,12 +64,6 @@
 <br/>
 <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br />
-<br />
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/oshadaera68/count.svg" />
