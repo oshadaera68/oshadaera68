@@ -44,6 +44,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## 🌐 Social Media
 <p align="left">
@@ -55,12 +57,10 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oshadaera68&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-<br/>
 <br/>
 <br/>
 
