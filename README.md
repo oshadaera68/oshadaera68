@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>  About me
 <img align="right" top="23px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=35%>
-<p fontSize="23px"><b>Hello, I'm Oshada Eranga from galle. I'm interested in a variety of software development topics, including web development, ui/ux Design, and android app development. I'm always eager to learn more and expand my skillset. <br /> As a Youtuber, I'm the owner of <a href="https://www.youtube.com/@ERAMUSICLK/featured" text-decoration=none>ERA MUSIC LK</a> Youtube Channel.</b></p>
+<p fontSize="23px"><b>Hello, I'm Oshada Eranga from galle. I'm interested in a variety of software development topics, including web development, ui/ux Design, and android app development. I'm always eager to learn more and expand my skillset. <br /> As a Youtuber, I'm the owner of <a href="https://www.youtube.com/@ERAMUSICLK/featured" text-decoration=none color='white'>ERA MUSIC LK</a> Youtube Channel.</b></p>
+If you want to contact me <b>+94 778111630</b> or WhatsApp <b>+94 767627455</b>
 
 
 <p align="Left">
