@@ -14,9 +14,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ## 💻 Tech Stack
 - Languages
@@ -44,9 +41,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadaera68&show_icons=true&theme=tokyonight&line_height=27" alt="Oshada's github stats"/>
 </a>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
