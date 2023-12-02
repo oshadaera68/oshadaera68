@@ -7,7 +7,6 @@
 <p align="Left">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/oshadaera68">
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 </p>
 
 <br />
@@ -21,7 +20,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,tailwind,ts,hibernate,java,jquery,mongodb,mysql,nodejs,react,angular,nextjs,flutter,py,spring,maven,materialui,flask,firebase" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,tailwind,laravel,ts,hibernate,java,jquery,mongodb,mysql,nodejs,react,angular,nextjs,flutter,py,spring,maven,materialui,flask,firebase" />
   </a>
 </p>
 
@@ -52,13 +51,16 @@
 ## Social Media
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=github,linkedin,stackoverflow" />
   </a>
 </p>
 </p>
 
 <br/>
 <br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oshadaera68&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="center"> 
   Visitor count<br>
@@ -67,6 +69,6 @@
 
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢! 
 <img src="https://github.com/oshadaera68/red-alpha/blob/main/Hi.gif" width="20px">
 </h5>
